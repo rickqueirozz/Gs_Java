@@ -1,5 +1,9 @@
 # ArteViva - Sistema de Gerenciamento de Eventos Culturais e Artísticos 🎨
 
+Jhonatan Curci RM94188
+Ricardo Queiroz RM94241
+João Victor Soares RM551410
+
 ## 📋 Sobre o Projeto
 
 O ArteViva é uma API REST desenvolvida em Spring Boot para gerenciamento de eventos culturais e artísticos. O sistema permite o cadastro, busca e gerenciamento de eventos culturais, além do controle de usuários e suas participações.
